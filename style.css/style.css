@@ -1,0 +1,219 @@
+
+.tourism {
+	margin-left: 70px;
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav1 {
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	vertical-align: middle;
+	margin-left: 500px;
+	margin-top: 29px;
+
+
+}
+
+.ul {
+	display: inline-block;
+}
+
+.li1 {
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+
+}
+.li2{
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+}
+
+.li3 {
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+}
+.li4 {
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+}
+
+
+.fa-bars {
+	font-size: 20px;
+	display: none;
+	cursor: pointer;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+
+
+}
+
+
+
+
+.mshobeli {
+	margin-top: 20px;
+	position: relative;
+	width: 1349px;
+	display: inline-block;
+
+
+	
+	
+
+}
+.mydiv {
+	position: absolute;
+	
+	display: inline-block;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	font-size: 60px;
+	color: #ffffff;
+
+}
+
+.div2 {
+	position: absolute;
+	
+	display: inline-block;
+	top: 65%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	font-size: 15px;
+	color: #ffffff;
+
+}
+
+/*end of section 1*/
+
+
+.section2 {
+	margin-top: 60px;
+}
+
+
+.container {
+
+	width: 1170px;
+	margin: 0 auto;
+	height: 600px;
+}
+
+.div3{
+	font-size:11px;
+	color: #8d8d8d;
+
+}
+
+.shua {
+ color: #1a1a1b;
+ margin-top: 5px;
+}
+
+.p1 {
+	width: 200px;
+	margin-top: 15px;
+	color: #8d8d8d;
+}
+
+
+
+.mshobelidiv {
+
+	display: -webkit-box;
+
+	display: -ms-flexbox;
+
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+}
+
+.shvilip1 {
+
+	width: 200px;
+    color: #8d8d8d;
+    margin-top: 8px;
+}
+
+
+
+.shvilidiv2 {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin-bottom: 10px;
+	width: 280px;
+	height: 200px;
+}
+
+.cards {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+}
+
+.cardsone {
+	margin-right: 20px;
+	margin-left: 30px;
+}
+
+.flex {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.card3 {
+
+	margin-left: 20px;
+
+}
+
+@media screen and ( max-width: 993px) {
+	.nav1 {
+		display: none;
+	}
+	.fa-bars {
+		display: inline-block;
+	    -webkit-box-orient: horizontal;
+	    -webkit-box-direction: normal;
+	        -ms-flex-direction: row;
+	            flex-direction: row;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		padding-left: 1252px;
+		
+	}
+	
+}
+
+
